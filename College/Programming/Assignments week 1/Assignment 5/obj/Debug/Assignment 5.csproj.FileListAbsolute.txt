@@ -1,0 +1,10 @@
+C:\Users\Gebruiker\Desktop\Programming-master\Assignments week 1\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\Gebruiker\Desktop\Programming-master\Assignments week 1\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\Gebruiker\Desktop\Programming-master\Assignments week 1\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\Gebruiker\Desktop\Programming-master\Assignments week 1\Assignment 5\obj\Debug\Assignment 5.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Programming-master\Assignments week 1\Assignment 5\obj\Debug\Assignment_5.Form1.resources
+C:\Users\Gebruiker\Desktop\Programming-master\Assignments week 1\Assignment 5\obj\Debug\Assignment_5.Properties.Resources.resources
+C:\Users\Gebruiker\Desktop\Programming-master\Assignments week 1\Assignment 5\obj\Debug\Assignment 5.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Desktop\Programming-master\Assignments week 1\Assignment 5\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\Programming-master\Assignments week 1\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\Gebruiker\Desktop\Programming-master\Assignments week 1\Assignment 5\obj\Debug\Assignment 5.pdb
