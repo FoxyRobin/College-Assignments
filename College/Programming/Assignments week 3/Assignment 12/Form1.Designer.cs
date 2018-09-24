@@ -72,9 +72,8 @@
             this.lbl_price.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.5F);
             this.lbl_price.Location = new System.Drawing.Point(218, 157);
             this.lbl_price.Name = "lbl_price";
-            this.lbl_price.Size = new System.Drawing.Size(51, 20);
+            this.lbl_price.Size = new System.Drawing.Size(0, 20);
             this.lbl_price.TabIndex = 3;
-            this.lbl_price.Text = "label3";
             // 
             // txt_age
             // 
