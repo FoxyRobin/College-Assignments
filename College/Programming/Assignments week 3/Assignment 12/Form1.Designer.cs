@@ -94,7 +94,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btn_calc);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Selection assignment 12";
             this.ResumeLayout(false);
             this.PerformLayout();
 
