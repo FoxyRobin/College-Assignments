@@ -4,3 +4,10 @@ C:\Users\Gebruiker\source\repos\Assignment 1\Assignment 2\bin\Debug\Assignment 2
 C:\Users\Gebruiker\source\repos\Assignment 1\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
 C:\Users\Gebruiker\source\repos\Assignment 1\Assignment 2\obj\Debug\Assignment 2.exe
 C:\Users\Gebruiker\source\repos\Assignment 1\Assignment 2\obj\Debug\Assignment 2.pdb
+C:\Users\Gebruiker\Documents\GitHub\College\Programming\Assignments week 3\Assignment 2\bin\Debug\Assignment 2.exe.config
+C:\Users\Gebruiker\Documents\GitHub\College\Programming\Assignments week 3\Assignment 2\bin\Debug\Assignment 2.exe
+C:\Users\Gebruiker\Documents\GitHub\College\Programming\Assignments week 3\Assignment 2\bin\Debug\Assignment 2.pdb
+C:\Users\Gebruiker\Documents\GitHub\College\Programming\Assignments week 3\Assignment 2\obj\Debug\Assignment 2.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Documents\GitHub\College\Programming\Assignments week 3\Assignment 2\obj\Debug\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\College\Programming\Assignments week 3\Assignment 2\obj\Debug\Assignment 2.exe
+C:\Users\Gebruiker\Documents\GitHub\College\Programming\Assignments week 3\Assignment 2\obj\Debug\Assignment 2.pdb
