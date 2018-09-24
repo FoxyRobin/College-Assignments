@@ -1,0 +1,6 @@
+C:\Users\Gebruiker\source\repos\Assignment 1\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\Gebruiker\source\repos\Assignment 1\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\Gebruiker\source\repos\Assignment 1\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\Gebruiker\source\repos\Assignment 1\Assignment 5\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\Assignment 1\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\Gebruiker\source\repos\Assignment 1\Assignment 5\obj\Debug\Assignment 5.pdb

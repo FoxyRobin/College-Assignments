@@ -1,0 +1,7 @@
+C:\Users\Gebruiker\source\repos\Assignment 1\Assignments week 3\bin\Debug\Assignments week 3.exe.config
+C:\Users\Gebruiker\source\repos\Assignment 1\Assignments week 3\bin\Debug\Assignments week 3.exe
+C:\Users\Gebruiker\source\repos\Assignment 1\Assignments week 3\bin\Debug\Assignments week 3.pdb
+C:\Users\Gebruiker\source\repos\Assignment 1\Assignments week 3\obj\Debug\Assignments week 3.csprojAssemblyReference.cache
+C:\Users\Gebruiker\source\repos\Assignment 1\Assignments week 3\obj\Debug\Assignments week 3.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\Assignment 1\Assignments week 3\obj\Debug\Assignments week 3.exe
+C:\Users\Gebruiker\source\repos\Assignment 1\Assignments week 3\obj\Debug\Assignments week 3.pdb
